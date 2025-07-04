@@ -1,0 +1,6 @@
+[project]
+name = "my_project"
+version = "0.1.0"
+dependencies = [
+    "gunicorn>=23.0.0",
+]
